@@ -1,5 +1,4 @@
-knowledge.py
-====================================
+== knowledge.py
 
 A Voice Driven Knowledge Base for Android Scripting
 
