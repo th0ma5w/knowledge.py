@@ -1,4 +1,5 @@
-== knowledge.py
+knowledge.py
+====================================
 
 A Voice Driven Knowledge Base for Android Scripting
 
@@ -41,7 +42,7 @@ Then, keep saying pairs of items for that subject like:
 "Pickup Ana"
 "Meet Doug"
 
-... and each of these pairs will be prefixed with "Monday."
+and each of these pairs will be prefixed with "Monday."
 
 Using the Add Many: by Subject & Predicate feature, first say:
 
