@@ -5,6 +5,16 @@ A Voice Driven Knowledge Base for Android Scripting
  - by Thomas (th0ma5w)
  - http://www.twitter.com/th0ma5
 
+=== Installation
+
+Download and install SL4A to your phone, install they Python
+interpreter. http://code.google.com/p/android-scripting/
+
+Download knowledge.py into your scripts folder
+
+Create a shortcut to the script, otherwise load SL4A to find
+your script and execute it
+
 === Description
 
 Using your voice, record three-word sentances made up of a Subject, 
